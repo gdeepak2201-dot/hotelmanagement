@@ -45,7 +45,7 @@ public class Appservice {
                 return true;
 
             } 
-        return false;
+        return false; 
         }
 
     public void confirmation(String hotelname, String mode) {
